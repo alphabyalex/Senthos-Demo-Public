@@ -2,7 +2,7 @@
 
 **Live:** https://lukres-o8z3.vercel.app
 
-Senthos is a structured-products interface built for SCBC 2026 at USC. It takes a universe of prediction-market outcomes and shapes them into familiar financial primitives — baskets, tranches, and principal-protected notes — so a user can express a view with a clear risk profile instead of picking individual markets one at a time.
+Senthos is a structured-products interface built for SCBC 2026 at USC. It takes a universe of prediction-market outcomes and shapes them into familiar financial positions, baskets, tranches, and principal-protected notes so a user can express a view with a clear risk profile instead of picking individual markets one at a time.
 
 ## About this demo
 
@@ -11,7 +11,7 @@ This is a **frontend-only preview** of the Senthos UI deployed to Vercel as a st
 A few things to know:
 
 - The **live backend is not connected here.** Anything that needs real pricing, live basket data, AI personalization, or on-chain state will render placeholders or not at all. The full version runs against a separate API and a Solana devnet deployment.
-- Click through freely — portfolio, constellations, tranches, PPN — to see the interaction model and visual language.
+- Click through freely to portfolio, constellations, tranches, and PPN to see the interaction model and visual language.
 - Nothing here is a financial product or investment advice. It's a hackathon project.
 
 ## What I contributed
