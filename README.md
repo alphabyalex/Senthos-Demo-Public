@@ -1,6 +1,6 @@
 # Senthos — Demo
 
-**Live:** https://lukres-o8z3.vercel.app
+**Frontend Only Live:** https://lukres-o8z3.vercel.app
 
 **1st Place, USC SCBC Hackathon 2026 — $7,000 prize, judged by the Solana Foundation.**
 
